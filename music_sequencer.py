@@ -1,4 +1,4 @@
-from doubly_linked_list import LinkedList
+from doubly_ll import LList
 from midi_player import MidiPlayer
 
 
