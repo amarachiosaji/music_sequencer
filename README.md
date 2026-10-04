@@ -1,2 +1,2 @@
 # music_sequencer
-Music Sequencer Project for a class I took
+Music Sequencer Project for class
