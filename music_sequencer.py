@@ -4,7 +4,7 @@ from midi_player import MidiPlayer
 
 class MusicSequencer:
     def __init__(self):
-        self._composition: LinkedList = LinkedList()
+        self._composition: LList = LList()
         self._current_index: int = -1  # -1 == "no current" (empty composition)
         self._player = MidiPlayer()
 
